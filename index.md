@@ -1,3 +1,6 @@
+# My C and C++ Learning Repository
+## Committed to learning C/C++ in 2022.
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/yeargin2021/verbose-octo-funicular/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
