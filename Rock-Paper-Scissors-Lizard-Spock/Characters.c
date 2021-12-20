@@ -9,6 +9,6 @@ int main(){
 		Spock
 	*/
 	
-	printf("Characters");
+	printf("Characters\n");
 	return 0;
 }
