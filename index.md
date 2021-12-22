@@ -1,6 +1,8 @@
 ## My C and C++ Learning Repository
 ## Committed to learning C/C++ in 2022.
 
+22 DEC 2021 1254, P'ville. -- Hi yall. Trying this for once. There are not so many days to summer now. Wish this luck. [My vacuum sounds like it's chewing up the floor.]
+
 //## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/yeargin2021/verbose-octo-funicular/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
