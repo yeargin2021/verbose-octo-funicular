@@ -1,6 +1,7 @@
 ## My C and C++ Learning Repository
 ## Committed to learning C/C++ in 2022.
 
+<<<<<<< HEAD
 22 DEC 2021 1254, P'ville. -- Hi yall. Trying this for once. There are not so many days to summer now. Wish this luck. [My vacuum sounds like it's chewing up the floor.]
 
 //## Welcome to GitHub Pages
@@ -40,3 +41,6 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+=======
+- I'm on [Twitter](http://www.twitter.com/thesedays2020) \(Rarely post.\).
+>>>>>>> 311248e8cd471cce4e1ba8f9d79d06e9478a42db
