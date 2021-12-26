@@ -5,6 +5,8 @@
 
 - 26 DEC 2021 1234, P'ville. -- Link to first repository is [here](https://github.com/yeargin2021/verbose-octo-funicular). \** Hello world \**
 
+- 26 DEC 2021 1246, P'ville. -- Official first repo is [here](https://github.com/yeargin2021/W3C-Schools-C-_202112261239_intro). \** Another \'Hello world\' program \**
+
 ---
 
 - I'm on [Twitter](http://www.twitter.com/thesedays2020) \(Rarely post.\).
