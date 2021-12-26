@@ -5,4 +5,3 @@
 
 =======
 - I'm on [Twitter](http://www.twitter.com/thesedays2020) \(Rarely post.\).
->>>>>>> 311248e8cd471cce4e1ba8f9d79d06e9478a42db
